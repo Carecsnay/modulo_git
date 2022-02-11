@@ -145,7 +145,7 @@ push -> PUXA ALTERAÇÕES DO LOCAL PARA REMOTO
 
 ENVIA SUAS ALTERAÇÕES PARA O GITHUB PARA O REPOSITÓRIO NA BRANCH MASTERS
 
-10. 5 git pull origin master --allow-unrelated-histories
+10. 5 git pull -u origin master --force
 
-RESOLVE O PROBLEMA COM REFUSED
+FORÇA O REENVIO DO ARQUIVO PARA O GITHUB
 
